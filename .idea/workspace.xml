@@ -9,11 +9,31 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="Visual.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/streaming/Visual.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="221">
+              <caret line="13" column="26" lean-forward="true" selection-start-line="13" selection-start-column="26" selection-end-line="13" selection-end-column="26" />
+              <folding>
+                <element signature="e#0#33#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectFrameBounds" extendedState="1">
     <option name="y" value="42" />
     <option name="width" value="1231" />
     <option name="height" value="818" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -67,28 +87,40 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="42" width="1231" height="818" extended-state="0" />
+    <frame x="0" y="42" width="1231" height="818" extended-state="1" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="1" sideWeight="0.41116005" visible="true" weight="0.12908633" />
+      <window_info active="true" content_ui="combo" id="Project" order="1" sideWeight="0.41116005" visible="true" weight="0.12824811" />
       <window_info anchor="bottom" id="TODO" order="5" />
       <window_info anchor="bottom" id="Event Log" order="6" sideWeight="0.44636363" side_tool="true" weight="0.28907332" />
-      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Python Console" order="8" sideWeight="0.58883995" weight="0.29809105" />
       <window_info anchor="right" id="Run" order="4" sideWeight="0.5753804" weight="0.47637293" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Python Console" order="8" sideWeight="0.58883995" weight="0.29809105" />
       <window_info anchor="right" id="Structure" order="3" show_stripe_button="false" sideWeight="0.7140078" side_tool="true" weight="0.3409091" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="9" sideWeight="0.7140078" visible="true" weight="0.28781205" />
-      <window_info auto_hide="true" id="Favorites" order="0" show_stripe_button="false" side_tool="true" type="SLIDING" weight="0.32963988" />
+      <window_info anchor="bottom" id="Terminal" order="9" sideWeight="0.7140078" weight="0.36270192" />
       <window_info anchor="bottom" id="Debug" order="2" weight="0.4" />
+      <window_info auto_hide="true" id="Favorites" order="0" show_stripe_button="false" side_tool="true" type="SLIDING" weight="0.32963988" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="4" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="3" weight="0.25" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Cvs" order="3" weight="0.25" />
       <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Message" order="0" />
     </layout>
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/streaming/Visual.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" column="26" lean-forward="true" selection-start-line="13" selection-start-column="26" selection-end-line="13" selection-end-column="26" />
+          <folding>
+            <element signature="e#0#33#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
   </component>
 </project>
